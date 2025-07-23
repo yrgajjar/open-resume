@@ -97,9 +97,9 @@ const QAS = [
           The best way to support OpenResume is to share your thoughts and
           feedback with us to help further improve it. You can send us an email
           at{" "}
-          <Link href="mailto:hello@open-resume.com">hello@open-resume.com</Link>{" "}
+          <Link href="mailto:info@yags.in">info@yags.in</Link>{" "}
           or{" "}
-          <Link href="https://github.com/xitanggg/open-resume/issues/new">
+          <Link href="https://help.yags.in">
             open an issue
           </Link>{" "}
           at our Github repository. Whether you like it or not, we would love to
