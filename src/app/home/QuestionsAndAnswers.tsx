@@ -73,8 +73,8 @@ const QAS = [
     answer: (
       <p>
         OpenResume was created by{" "}
-        <Link href="https://github.com/xitanggg">Xitang Zhao</Link> and designed
-        by <Link href="https://www.linkedin.com/in/imzhi">Zhigang Wen</Link> as
+        <Link href="https://github.com/yrgajjar">Yags</Link> and designed
+        by <Link href="https://www.yags.in">Yags.in</Link> as
         a weekend project. As immigrants to the US, we had made many mistakes
         when creating our first resumes and applying for internships and jobs.
         It took us a long while to learn some of the best practices. While
